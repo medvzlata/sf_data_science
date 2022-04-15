@@ -27,8 +27,28 @@
 **Что практикуем**
 Учимся писать хороший код на Python.
 
+:arrow_up:[к оглавлению](https://github.com/medvzlata/sf_data_science/tree/main/project_0#%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)
+
 
 ### Краткая информация о данных
 Числа генерируются программой рандомно.
 
-:arrow_up:[к оглавлению]()
+:arrow_up:[к оглавлению](https://github.com/medvzlata/sf_data_science/tree/main/project_0#%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)
+
+
+### Этапы работы над проектом
+. . . .
+
+:arrow_up:[к оглавлению](https://github.com/medvzlata/sf_data_science/tree/main/project_0#%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)
+
+
+### Результат
+. . . .
+
+:arrow_up:[к оглавлению](https://github.com/medvzlata/sf_data_science/tree/main/project_0#%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)
+
+
+### Вывод
+. . . .
+
+:arrow_up:[к оглавлению](https://github.com/medvzlata/sf_data_science/tree/main/project_0#%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)
