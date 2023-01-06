@@ -14,30 +14,40 @@
 :arrow_up:[к оглавлению](https://github.com/medvzlata/sf_data_science/tree/main/project_0#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
+
 ### Какой кейс решаем?
 Необходимо проанализировать данные о соискателях, применяя графические и статистические методы, предварительно структурировав информацию, произвести очистку данных.
 
 **Условия**
+
 Использование изученных методов и библиотек.
 
 **Метрики качества**
+
 Код должен быть читаемым и понятным: имена переменных и функций отражают их сущность, важно избегать многострочных конструкций и условий.
 Графики должны содержать название, отражающее их суть, и подписи осей.
 Выводы к графикам оформляются в формате Markdown под самим графиком в отдельной ячейке. Выводы должны быть представлены в виде небольших связанных предложений на русском языке.
 
 **Что практикуем**
+
 Применение изученных инструментов обработки и анализа данных.
 
 :arrow_up:[к оглавлению](https://github.com/medvzlata/sf_data_science/tree/main/project_0#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
+
 ### Краткая информация о данных
+
 База резюме, выгруженная с сайта поиска вакансий hh.ru и курсы валют за соответствующий период времени.
-Исходные данные:
-[ База данных о соискателях](https://drive.google.com/file/d/1AOHw-BmjehFg730pdAEjv8UsBmgie-n0/view?usp=share_link)
-[ Курсы валют](https://drive.google.com/file/d/1ZnE6T3w0VzjYpeEuFTDWaosj0VdzW5qP/view?usp=sharing)
+
+Исходные данные (скачать):
+
+[    База данных о соискателях](https://drive.google.com/file/d/1AOHw-BmjehFg730pdAEjv8UsBmgie-n0/view?usp=share_link)
+
+[    Курсы валют](https://drive.google.com/file/d/1ZnE6T3w0VzjYpeEuFTDWaosj0VdzW5qP/view?usp=sharing)
 
 :arrow_up:[к оглавлению](https://github.com/medvzlata/sf_data_science/tree/main/project_0#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
+
 
 
 ### Этапы работы над проектом
@@ -49,8 +59,12 @@
 :arrow_up:[к оглавлению](https://github.com/medvzlata/sf_data_science/tree/main/project_0#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
+
 ### Результат
-. . . .
+[Проект в PDF](https://github.com/medvzlata/sf_data_science/blob/main/Project_1/Project_1.pdf)
+
+[Некоторые графики в PNG](https://github.com/medvzlata/sf_data_science/tree/main/Project_1/images)
+
 
 :arrow_up:[к оглавлению](https://github.com/medvzlata/sf_data_science/tree/main/project_0#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
